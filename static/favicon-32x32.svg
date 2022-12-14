@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>logo-nodoxa-svg</title>
+	<defs>
+		<image  width="26" height="27" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAbCAMAAABVyG9ZAAAAAXNSR0IB2cksfwAAANhQTFRFa4HUEDO5NlPEbIHUAAAAkqLeQV3HYXnRACW0BCm1UGrMjJ7eNVLDEzW6k6PeNFLDztbxDTC4UmvMFzi7dYnXP1vHBSm2fpLaGzy8kaLfASa0RmHJpbPlAyi1SWTKAia0Hz+9hZfbNlTECCy2PlrGHT69OFXFDDC4eY7YJUW/eo3XIEC9IkK+LEvBS2XKL03CoK/jSGPJlKXgFzm7dInWBCi1NVPEYHfQEjS5P1vHCS23rLnnOFbFgJTaCy63WnPPAie1nazjK0rBt8Lqi53doK/jjZ7eo7LkezfhiAAAAEh0Uk5Tmf/WCgBmmZn//4Vmmf89rRT/j/9H6/946yv/uhT/lP//HNb/uGa4/7pmGv//ZpRmFMEy63r/60f/kf8UxEn/rf8f6z1mKSk9Dl7VFwAAAJxJREFUeJx1zkUSQkEMBNABAgR35+Pu7q73vxGLTH2KGro3neq3iVIOidNFErcePMrLEp9fU0APQZs4FIbEkSikWBwSJ5KQOIUpnYHE2RykfKGIiK3SHypLVaom1erSDZOaLel2x6Bury/HwKAhjayfj740pskUEs3mkGixhEQrTOsNJNruIO0PkOh4gkTnC6Trzab7Q/LURC89vD+fUSC3+fhnSQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="img1" href="#img1" x="3" y="3"/>
+</svg>
