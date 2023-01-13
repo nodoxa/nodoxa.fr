@@ -1,11 +1,16 @@
 ---
 title: "Conseil"
-date: 2018-11-18T12:33:46+10:00
-draft: false
+date: 2023-01-13T15:15:26+10:00
 featured: true
+draft: false
 weight: 1
 ---
 
-NoDoxa appuie les gouvernements, les ONG et les OIG dans l’élaboration de politiques, de programmes et de projets dans le domaine de la protection sociale, de la gouvernance et du développement durable, sectoriel et transversal.
+Appui à la conception de politiques et de programmes dans le domaine de la protection sociale et du droit du travail. 
 
-À l’échelon local, le cabinet intervient également auprès des collectivités et des entreprises désireuses d’aller vers plus d’équité et de durabilité.
+Notre cabinet vous appuie dans l’élaboration l’analyse et l’évaluation de politiques et de programmes dans le domaine de la protection sociale et du droit du travail et ce à l’échelon local (collectivités, entreprises, etc.) comme à l’international (gouvernements, partenaires de développement, institutions de la société civile, etc.).
+
+Voici quelques-unes de nos prestations :
+- Chiffrages, conception de modèles de financement, études de faisabilité
+- Analyses : études sectorielles, institutionnelles et organisationnelles
+- Évaluations à mi-parcours ou finales

@@ -4,8 +4,9 @@ description: 'Nous offrons une gamme de services pour aider votre entreprise.'
 # intro_image: "images/illustrations/"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
+url: 'prestations'
 ---
 
-# Des services qui évoluent avec votre entreprise
+# Des prestations adaptées à vos besoins
 
-Nos services sont flexibles, n'hésitez pas à nous contacter si vous avez un besoin particulier.
+Nous proposons des prestations sur mesure, n'hésitez pas à nous contacter pour en savoir plus.

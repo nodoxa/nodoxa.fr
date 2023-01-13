@@ -48,10 +48,10 @@ title = "NoDoxa"
     copyright_text = ''
 
 [menu]
-  # [[menu.main]]
-  #   name = "Services"
-  #   url = "/services/"
-  #   weight = 1
+  [[menu.main]]
+    name = "Prestations"
+    url = "/prestations/"
+    weight = 1
 
   [[menu.main]]
     name = "Contact"

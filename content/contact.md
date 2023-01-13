@@ -5,8 +5,3 @@ layout: contact
 ---
 
 N'hésitez pas à nous contacter par email, nous vous répondrons sous 48h.
-
-| Jour       | Heures d'ouverture   |
-| ---------- | -------------------- |
-| Lundi au vendredi   | 9h - 19h |
-| Week-end   | Fermé |
