@@ -8,6 +8,8 @@ weight: 3
 
 Des formations sur mesure adaptées au profil des participants et au temps qu’ils pourront y consacrer.
 
+<!--more-->
+
 Afin de mieux appréhender l’évolution constante des politiques publiques, nous proposons des formations sur mesure adaptées au profil des participants et au temps qu’ils pourront y consacrer.
 
 Quelques exemples de thématiques sur lesquels nous intervenons : protection sociale, droit du travail, normes internationales & conformité, actualité sociale, etc.

@@ -8,6 +8,8 @@ weight: 1
 
 Appui à la conception de politiques et de programmes dans le domaine de la protection sociale et du droit du travail. 
 
+<!--more-->
+
 Notre cabinet vous appuie dans l’élaboration l’analyse et l’évaluation de politiques et de programmes dans le domaine de la protection sociale et du droit du travail et ce à l’échelon local (collectivités, entreprises, etc.) comme à l’international (gouvernements, partenaires de développement, institutions de la société civile, etc.).
 
 Voici quelques-unes de nos prestations :
