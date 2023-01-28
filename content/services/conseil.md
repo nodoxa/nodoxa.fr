@@ -22,7 +22,7 @@ Nous intervenons pour des commanditaires à l’échelon local (collectivités, 
 
 **Quelques exemples de réalisations :**
 * Rédaction d'une étude sur les réformes récentes des élections des représentants du personnel et leur impact sur la représentativité syndicale
-* Bonnes pratiques pour étendre la protection sociale aux travailleurs du secteur culturel et créatif 
+* [Bonnes pratiques](https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---soc_sec/documents/publication/wcms_791676.pdf) pour étendre la protection sociale aux travailleurs du secteur culturel et créatif 
     * Élaboration d'une note d'information comprenant des informations sur les obstacles et les défis particuliers auxquels ces travailleurs sont confrontés pour accéder à une protection sociale adéquate et les solutions possibles les mieux adaptées à leur situation particulière
     * Présentation du document aux membres du Gouvernement du pays commanditaire (Afrique du Nord)
 * Protection sociale des travailleurs domestiques : mise à jour de la partie juridique d’un rapport et développement d'études de cas afin de permettre la construction d’un nouveau [rapport](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/publication/wcms_848280.pdf)
