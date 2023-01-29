@@ -4,6 +4,7 @@ date: 2023-01-13T15:14:39+10:00
 featured: true
 draft: false
 weight: 3
+slug: "formation-en-politique-public"
 aliases: ["/services/formation/"]
 ---
 
