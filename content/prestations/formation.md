@@ -4,6 +4,7 @@ date: 2023-01-13T15:14:39+10:00
 featured: true
 draft: false
 weight: 3
+aliases: ["/services/formation/"]
 ---
 
 Des interventions sur mesure adaptées au profil des participants et au temps qu’ils peuvent y consacrer.

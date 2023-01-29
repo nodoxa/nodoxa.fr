@@ -4,6 +4,7 @@ date: 2023-01-13T15:15:34+10:00
 featured: true
 draft: false
 weight: 2
+aliases: ["/services/accompagnement/"]
 ---
 
 Nous vous aidons à orienter vos actions afin qu’elles soient plus pertinentes, plus cohérentes et plus performantes.

@@ -4,6 +4,7 @@ date: 2023-01-13T15:15:26+10:00
 featured: true
 draft: false
 weight: 1
+aliases: ["/services/conseil/"]
 ---
 
 Appui à la conception de politiques et de programmes dans le domaine de la protection sociale et du droit du travail. 
@@ -15,12 +16,14 @@ La protection sociale et le droit du travail ne pouvant être pensés isolément
 Nous intervenons pour des commanditaires à l’échelon local (collectivités, entreprises, associations, organismes paritaires et de protection sociale, etc.) comme à l’international (gouvernements, partenaires de développement, institutions de la société civile, etc.).
 
 **Voici quelques-unes des prestations que nous proposons :**
+
 * Chiffrages, conception de modèles de financement, études de faisabilité
 * Analyses : études sectorielles, institutionnelles et organisationnelles
 * Évaluations de politiques publiques
 * Études d’impacts des évolutions règlementaires
 
 **Quelques exemples de réalisations :**
+
 * Rédaction d'une étude sur les réformes récentes des élections des représentants du personnel et leur impact sur la représentativité syndicale
 * [Bonnes pratiques](https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---soc_sec/documents/publication/wcms_791676.pdf) pour étendre la protection sociale aux travailleurs du secteur culturel et créatif 
     * Élaboration d'une note d'information comprenant des informations sur les obstacles et les défis particuliers auxquels ces travailleurs sont confrontés pour accéder à une protection sociale adéquate et les solutions possibles les mieux adaptées à leur situation particulière
