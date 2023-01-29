@@ -4,7 +4,7 @@ date: 2023-01-13T15:15:26+10:00
 featured: true
 draft: false
 weight: 1
-slug: "conseil-en-politique-public"
+slug: "conseil-en-politique-publique"
 aliases: ["/services/conseil/"]
 ---
 

@@ -4,7 +4,7 @@ date: 2023-01-13T15:15:34+10:00
 featured: true
 draft: false
 weight: 2
-slug: "accompagnement-en-politique-public"
+slug: "accompagnement-en-politique-publique"
 aliases: ["/services/accompagnement/"]
 ---
 
