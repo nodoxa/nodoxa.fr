@@ -43,22 +43,14 @@
 </div>
 {{end}}
 
-{{if .Site.Data.features}}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+{{if .Site.Data.references}}
+<div>
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10 reference">
+    <h2>Références</h2>
     <div class="row justify-content-center">
-      {{ range .Site.Data.features }}
+      {{ range .Site.Data.references }}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {{ if .image }}
-          <div class="feature-image"><img width="100" height="100" alt="{{ .Title }} logo"
-              src="{{ .image | relURL }}" /></div>
-          {{ end }}
-          <h2 class="feature-title">{{ .title }}</h2>
-          <div class="feature-content">
-            <p>{{ .description }}</p>
-          </div>
-        </div>
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img alt="{{ .title }} logo" src="{{ .image | relURL }}"/></a>
       </div>
       {{end}}
     </div>
