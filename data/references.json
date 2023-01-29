@@ -1,0 +1,17 @@
+[
+    {
+        "image": "images/references/fes.svg",
+        "title": "Friedrich-Ebert-Stiftung",
+        "url": "https://fes.de"
+    },
+    {
+        "image": "images/references/ilo.svg",
+        "title": "International Labour Organization",
+        "url": "https://www.ilo.org"
+    },
+    {
+        "image": "images/references/sorbonne.svg",
+        "title": "Sorbonne Université",
+        "url": "https://www.sorbonne-universite.fr"
+    }
+]
