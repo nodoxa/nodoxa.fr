@@ -45,10 +45,11 @@
 
 {{if .Site.Data.references}}
 <div>
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10 reference">
+    <h2>Ils nous font confiance</h2>
     <div class="row justify-content-center">
       {{ range .Site.Data.references }}
-      <div class="col-12 col-md-6 col-lg-4 mb-2 reference">
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img alt="{{ .title }} logo" src="{{ .image | relURL }}"/></a>
       </div>
       {{end}}
