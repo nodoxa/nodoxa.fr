@@ -2,9 +2,11 @@
 title: "Conseil"
 date: 2023-01-13T15:15:26+10:00
 featured: true
-draft: false
 weight: 1
 slug: "conseil-en-politique-publique"
+intro_image: "images/illustrations/prestation-conseil.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 aliases: ["/services/conseil/"]
 ---
 

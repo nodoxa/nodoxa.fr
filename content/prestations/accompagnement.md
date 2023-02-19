@@ -2,9 +2,11 @@
 title: "Accompagnement"
 date: 2023-01-13T15:15:34+10:00
 featured: true
-draft: false
 weight: 2
 slug: "accompagnement-en-politique-publique"
+intro_image: "images/illustrations/prestation-accompagnement.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 aliases: ["/services/accompagnement/"]
 ---
 

@@ -2,9 +2,11 @@
 title: "Formations & Conférences"
 date: 2023-01-13T15:14:39+10:00
 featured: true
-draft: false
 weight: 3
 slug: "formation-en-politique-publique"
+intro_image: "images/illustrations/prestation-formations-et-conferences.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 aliases: ["/services/formation/"]
 ---
 
