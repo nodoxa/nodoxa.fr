@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 N'hésitez pas à nous contacter par email, nous vous répondrons sous 48h.
 
 <form action="https://api.staticforms.xyz/submit" method="post" class="contact">
-    <input type="hidden" name="accessKey" value="70a565f1-0680-47c5-9ee3-d181e25ed643">
+    <input type="hidden" name="accessKey" value="46a0b83f-5115-418a-bd2f-b1f6d578602d">
     <input type="text" name="fullname" placeholder="Nom" />
     <input type="email" name="email" placeholder="Email" required />
     <textarea name="message" rows="5" placeholder="Message" required></textarea>
