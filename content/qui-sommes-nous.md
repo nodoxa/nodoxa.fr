@@ -19,17 +19,21 @@ Economic and political development in developing Countries (certificat) – The 
 
 <img src="../images/icons/icon-langues.svg" class="about-us-language"> Français et anglais
 
+<img src="../images/icons/icon-mail.svg" class="about-us-mail"> <a href="mailto:marie@nodoxa.fr">marie@nodoxa.fr</a>
+
 ### Anne Lavigne
 
 <img src="../images/pictures/anne-lavigne.jpeg" class="about-us-picture"> Anne Lavigne est professeure de sciences économiques à l'université d'Orléans depuis 1993, spécialiste d’économie des assurances et des systèmes de retraite. Elle y a créé le DESS Banques et assurances de l'université d'Orléans qu'elle a dirigé pendant 6 ans. Elle a été détachée en qualité de responsable des études au Conseil d’orientation des retraites entre 2016 et 2022, en charge notamment du suivi des systèmes de retraite à l’étranger et des questions d’épargne retraite.
  
 Elle est l'auteur de plusieurs ouvrages, contributions à ouvrage, et articles dans des revues à comité de lecture et de nombreuses autres publications académiques.). Elle a dirigé 15 thèses et participé à de nombreux jurys de thèse et d'habilitation à diriger des recherches. Elle a  par ailleurs été membre du comité de rédaction de 4 revues françaises et du comité éditorial d’une revue anglaise pendant plus de 10 ans.
  
-Elle est régulièrement sollicitée pour des missions d’expertise (ANR, AERES, HCERES, MESR, etc.) et  a été rapporteur ou membre de plusieurs institutions ( Conseil national des assurances, Comité consultatif de la Banque de France,  Comité consultatif de la législation et de la réglementation financière, Comité des Établissements de Crédit et d'Investissement).
+Elle est régulièrement sollicitée pour des missions d’expertise (ANR, AERES, HCERES, MESR, etc.) et  a été rapporteur ou membre de plusieurs institutions (Conseil national des assurances, Comité consultatif de la Banque de France,  Comité consultatif de la législation et de la réglementation financière, Comité des Établissements de Crédit et d'Investissement).
 
 <img src="../images/icons/icon-diplome.svg" class="about-us-education"> Licence en droit, maîtrise en sciences politiques et DEA en monnaie, finance et banque - Université de Paris I-Panthéon-Sorbonne, Doctorat en sciences économiques sur la crédibilité des politiques monétaires - Université de Paris X-Nanterre, Agrégation de sciences économiques.
 
-<img src="../images/icons/icon-langues.svg" class="about-us-language"> Français et anglais.
+<img src="../images/icons/icon-langues.svg" class="about-us-language"> Français et anglais
+
+<img src="../images/icons/icon-mail.svg" class="about-us-mail"> <a href='mailto:anne@nodoxa.fr'>anne@nodoxa.fr</a>
 
 ## Les experts
 
@@ -37,7 +41,7 @@ Afin de répondre à l’ensemble des problématiques identifiées de manière c
 
 ### Élodie Jeanpierre
 
-<img src="../images/pictures/elodie-jeanpierre.jpg" class="about-us-picture"> Élodie JEANPIERRE est avocate et exerce en droit du travail et de la sécurité sociale.
+<img src="../images/pictures/elodie-jeanpierre.jpg" class="about-us-picture"> Élodie Jeanpierre est avocate et exerce en droit du travail et de la sécurité sociale.
 
 Au terme de son parcours universitaire en droit, elle rejoint tout d’abord le siège du CNRS et est responsable de partenariats entre instituts de recherche et universités. Puis, elle intègre un cabinet de conseil en gestion de fonds européens et intervient notamment en tant qu’auditrice auprès de multiples acteurs institutionnels de l’emploi (collectivités territoriales, associations, chambres consulaires). Elle décide enfin de rejoindre la profession d’avocat et prête serment en 2016. Elle collabore pendant plusieurs années avec l’un des principaux cabinets rhônalpins en droit du travail, au cours desquelles elle plaide sur toute la France et développe une expertise particulière pour les transactions et le pré-contentieux.
 
