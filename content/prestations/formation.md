@@ -10,13 +10,14 @@ intro_image_hide_on_mobile: true
 aliases: ["/services/formation/"]
 ---
 
-Des interventions sur mesure adaptées au profil des participants et au temps qu’ils peuvent y consacrer.
+Des interventions sur mesure adaptées au profil des participants.
 
 <!--more-->
 
 ## Formations
 
 Afin de mieux appréhender l’évolution constante des politiques publiques, nous proposons des formations sur mesure, adaptées au profil des participants et au temps qu’ils peuvent y consacrer.
+
 Nous développons des programmes de formation dans nos domaines de compétences : protection sociale, droit du travail, normes internationales & conformité, actualité sociale, économie de la protection sociale, évaluation des politiques publiques, etc.
 
 **Pédagogie :**
@@ -28,12 +29,14 @@ Nous développons des programmes de formation dans nos domaines de compétences 
 **Modalités :**
 
 * En face à face ou à distance
-* Remise d’une attestation individuelle de formation ou d’un certificat de réalisation
+* Remise d’une attestation individuelle de formation et d’un certificat de réalisation
+* Financement : Si vous êtes salarié (e) d’une entreprise française, adressez-vous au responsable formation de votre entreprise ou à votre OPCO pour échanger sur les possibilités de prise en charge de votre formation. 
 
-**Financement :**
-
-Si vous êtes salarié (e) d’une entreprise française, adressez-vous au responsable formation de votre entreprise ou à votre OPCO pour échanger sur les possibilités de prise en charge de votre formation. 
-
-## Conférences
+## Conférences, tables rondes et webinaires
 
 Animations et interventions en conférences, tables rondes et webinaires sur des thèmes d’actualité économique et sociale.
+
+**Réalisations :**
+
+* Atelier de renforcement capacitaire en protection sociale des membres du Gouvernement et de l’administration centrale organisé par l’UNICEF  (afrique subsaharienne) : construction et animation du volet sécurité sociale de l’atelier  (à distance et sur place). 
+* Interventions au cours de séminaires et webdoncérences sur le thème de la réforme des retraites.
