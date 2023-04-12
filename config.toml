@@ -65,3 +65,9 @@ title = "NoDoxa"
     name = "Contact"
     url = "/contact/"
     weight = 3
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Mentions Légales"
+    url = "/mentions-legales"
+    weight = 1
