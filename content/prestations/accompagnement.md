@@ -17,7 +17,7 @@ Nous vous aidons à orienter vos actions afin qu’elles soient plus pertinentes
 Au-delà du conseil, nous vous aidons à orienter vos programmes et projets afin qu’ils soient en adéquation avec les objectifs qui leurs sont assignés et de faciliter
 leur appropriation par les publics visés. Ils seront alors plus pertinents, plus cohérents et plus performants.
 
-Les projets que vous portez peuvent se heurter à différents écueils, nous vous accompagnons sur le  plan méthodologique pour garantir l’efficacité de votre démarche. Nous vous proposons les outils, connaissances et réponses utiles et nécessaires au bon déroulement de vos projets et programmes.
+Les projets que vous portez peuvent se heurter à différents écueils, nous vous accompagnons sur le plan méthodologique pour garantir l’efficacité de votre démarche. Nous vous proposons les outils, connaissances et réponses utiles et nécessaires au bon déroulement de vos projets et programmes.
 
 **Prestations :**
 
@@ -29,6 +29,6 @@ Les projets que vous portez peuvent se heurter à différents écueils, nous vou
 
 **Réalisations :**
 
-* Production de matrices d’évaluation de la conformité du cadre normatif national au regard des conventions internationales (Pacifique-Sud, Caraïbes)
+* Production de matrices d’évaluation de la conformité du cadre normatif national au regard des conventions * internationales (Pacifique-Sud, Caraïbes)
 * Rédaction du volet juridique de rapports actuariels (Caraïbes, Afrique de l’Est)
 * Appui à la constitution d’un dossier de candidature pour l’obtention du label Campus des métiers et qualifications – Excellence : parangonnage, enquête de terrain, proposition de structure et contribution à la rédaction du dossier (France)

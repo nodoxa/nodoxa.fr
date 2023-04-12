@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 aliases: ["/services/formation/"]
 ---
 
-Des interventions sur mesure adaptées au profil des participants.
+Des interventions sur mesure adaptées au profil des participants. 
 
 <!--more-->
 
@@ -38,5 +38,5 @@ Animations et interventions en conférences, tables rondes et webinaires sur des
 
 **Réalisations :**
 
-* Atelier de renforcement capacitaire en protection sociale des membres du Gouvernement et de l’administration centrale organisé par l’UNICEF  (afrique subsaharienne) : construction et animation du volet sécurité sociale de l’atelier  (à distance et sur place). 
-* Interventions au cours de séminaires et webdoncérences sur le thème de la réforme des retraites.
+* Atelier de renforcement capacitaire en protection sociale : construction et animation du volet sécurité sociale de l’atelier - à distance et sur place. Public : membres d’un gouvernement et d’administration centrale.
+* Interventions au cours de séminaires et webconférences sur le thème de la réforme des retraites
