@@ -23,7 +23,7 @@ Economic and political development in developing Countries (certificat) – The 
 
 ### Anne Lavigne
 
-<img src="../images/pictures/anne-lavigne.jpeg" class="about-us-picture"> Anne Lavigne est professeure de sciences économiques à l'université d'Orléans depuis 1993, spécialiste d’économie des assurances et des systèmes de retraite. Elle y a créé le DESS Banques et assurances de l'université d'Orléans qu'elle a dirigé pendant 6 ans. Elle a été détachée en qualité de responsable des études au Conseil d’orientation des retraites entre 2016 et 2022, en charge notamment du suivi des systèmes de retraite à l’étranger et des questions d’épargne retraite.
+<img src="../images/pictures/anne-lavigne.jpg" class="about-us-picture"> Anne Lavigne est professeure de sciences économiques à l'université d'Orléans depuis 1993, spécialiste d’économie des assurances et des systèmes de retraite. Elle y a créé le DESS Banques et assurances de l'université d'Orléans qu'elle a dirigé pendant 6 ans. Elle a été détachée en qualité de responsable des études au Conseil d’orientation des retraites entre 2016 et 2022, en charge notamment du suivi des systèmes de retraite à l’étranger et des questions d’épargne retraite.
  
 Elle est l'auteur de plusieurs ouvrages, contributions à ouvrage, et articles dans des revues à comité de lecture et de nombreuses autres publications académiques). Elle a dirigé 15 thèses et participé à de nombreux jurys de thèse et d'habilitation à diriger des recherches. Elle a par ailleurs été membre du comité de rédaction de 4 revues françaises et du comité éditorial d’une revue anglaise pendant plus de 10 ans.
  
@@ -67,7 +67,7 @@ Frédérique Nortier-Ribordy a auparavant été pendant 20 ans responsable des �
 
 ### Joe-Anthony Keyrouz
 
-<img src="../images/pictures/joe-anthony-keyrouz.jpeg" class="about-us-picture"> Joe-Anthony Keyrouz a démarré sa carrière en Italie dans un cabinet de conseil en stratégie.
+<img src="../images/pictures/joe-anthony-keyrouz.jpg" class="about-us-picture"> Joe-Anthony Keyrouz a démarré sa carrière en Italie dans un cabinet de conseil en stratégie.
 Basé à Milan, il participe à des projets de restructuration et réorganisation, redesign et informatisation de processus, analyses de marchés, et redéfinition de stratégie dans le secteur public mais également dans les secteurs des télécommunications, du diagnostic médical et du retail.
 
 En 2011, il rejoint un cabinet de conseil en stratégie opérationnelle en France et étend son périmètre d’activité notamment aux secteurs du luxe, du transport et de l’aérospatial.  Il intervient auprès de petites, moyennes et grandes entreprises pour la redéfinition de la stratégie et des processus de Supply Chain et Logistique, l’implémentation des pratiques industrielles de l'excellence opérationnelle et du lean management, la définition de stratégies de maintenance et la mise en place de systèmes de gestion de maintenance, l’assistance à la conception de produit, la gestion de grands projets, et la mise en œuvre de plans de performance internes et externes.
