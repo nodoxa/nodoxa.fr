@@ -53,18 +53,6 @@ Par ailleurs, elle est Chargée d’enseignement en droit du travail, au sein de
 
 <img src="../images/icons/icon-langues.svg" class="about-us-language"> Français et anglais
 
-### Frédérique Nortier-Ribordy 
-
-<img src="../images/pictures/frederique-nortier-ribordy.jpg" class="about-us-picture"> Frédérique Nortier-Ribordy est économiste spécialiste des retraites et de la protection sociale. Au sein du COR (Conseil d’Orientation des Retraites), elle coordonne les exercices de projection et le rapport annuel, elle est chargée du pilotage de séances mensuelles et des groupes de travail techniques sur les modèles de microsimulation. Elle intervient régulièrement auprès d’instances institutionnelles françaises et étrangères  afin de présenter le système de retraite français.
-
-Depuis 2022, elle fait partie du comité éditorial de la revue de la CNAV Retraite et Société. Elle est également chargée de cours à l’Université de Paris I Panthéon-Sorbonne dans le cadre du Master 2 « Cadres des organismes des secteurs sociaux », de la licence AES et de la préparation au concours de l’EN3S pour la chaire ESOPS (Économie sociale protection et société).
-
-Frédérique Nortier-Ribordy a auparavant été pendant 20 ans responsable des études au sein de l’Agirc-Arrco où ses travaux ont été très variés : études économiques mais aussi cheffe de projet pour la conception et mise en œuvre de simulateurs individuels de retraite (M@rel) et du système d’information décisionnel de la retraite complémentaire.
-
-<img src="../images/icons/icon-diplome.svg" class="about-us-education"> DEA « Conjoncture Économique et Prospective » de l’Université de Paris-Dauphine.
-
-<img src="../images/icons/icon-langues.svg" class="about-us-language"> Français et anglais
-
 ### Joe-Anthony Keyrouz
 
 <img src="../images/pictures/joe-anthony-keyrouz.jpg" class="about-us-picture"> Joe-Anthony Keyrouz a démarré sa carrière en Italie dans un cabinet de conseil en stratégie.
