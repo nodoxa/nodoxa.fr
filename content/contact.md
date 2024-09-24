@@ -17,5 +17,6 @@ N'hésitez pas à nous contacter par email, nous vous répondrons sous 48h.
     <input type="email" name="email" placeholder="Email" required />
     <textarea name="message" rows="5" placeholder="Message" required></textarea>
     <input type="hidden" name="redirectTo" value="{{< ref "contact-success.md" >}}">
+    <input type="text" name="honeypot" style="display: none;">
     <button type="submit">Envoyer</button>
 </form>
